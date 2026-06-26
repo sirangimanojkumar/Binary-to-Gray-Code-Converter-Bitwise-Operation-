@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+time=0 in=0000 out=0000
+time=10000 in=0001 out=0001
+time=20000 in=0010 out=0011
+time=30000 in=0011 out=0010
+time=40000 in=0100 out=0110
+time=50000 in=0101 out=0111
+time=60000 in=0110 out=0101
+time=70000 in=0111 out=0100
+time=80000 in=1000 out=1100
+time=90000 in=1001 out=1101
+time=100000 in=1010 out=1111
+time=110000 in=1011 out=1110
+time=120000 in=1100 out=1010
+time=130000 in=1101 out=1011
+time=140000 in=1110 out=1001
+time=150000 in=1111 out=1000
